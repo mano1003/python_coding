@@ -39,3 +39,12 @@ Explanation: Each class has a single responsibility:
 	•	InvoicePrinter prints the invoice.
 	•	PaymentProcessor handles payments.
 '''
+
+'''
+Output:
+Invoice:
+Laptop: $1200
+Mouse: $50
+Total: $1250
+Processing payment of $1250 with method Credit Card
+'''
